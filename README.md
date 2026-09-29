@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://public-blob.squarecloud.dev/8c0581e39496096d54dcb900d53d6ce2fee14248/githubbanner.jpg" alt="Terminal banner" width="100%" />
+<img src="https://blob.squarecloud.dev/pub/8c0581e39496096d54dcb900d53d6ce2fee14248/Imagens/348e2c524ecaafa6f235e7256bc80a3e.jpg" alt="Terminal banner" width="100%" />
 
 # Axiom
 
