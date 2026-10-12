@@ -44,7 +44,7 @@
   <b>    1</b> issue opened
   <b>    2</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">satoshoidaemon@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 16 repositories - 238 MB
+<div class="stdin"><span class="ps1-path">satoshoidaemon@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 16 repositories - 239 MB
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>    0</b>  watchers
